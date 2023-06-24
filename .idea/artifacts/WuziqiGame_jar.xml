@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WuziqiGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WuziqiGame_jar</output-path>
+    <root id="archive" name="WuziqiGame.jar">
+      <element id="module-output" name="WuziqiGame" />
+    </root>
+  </artifact>
+</component>
